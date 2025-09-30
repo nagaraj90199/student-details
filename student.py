@@ -1,0 +1,8 @@
+name= input("Enter your name: ")
+fname= input("Enter your father's name: ")  
+age= int(input("Enter your age: "))
+college= input("Enter your college name: ")
+print("Your name is", name)
+print("Your father's name is", fname)
+print("Your age is", age)
+print("Your college name is", college)
